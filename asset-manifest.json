@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.7c50e5fe.css",
+    "main.js": "/React-Portfolio/static/js/main.83ddb62b.js",
+    "static/media/Resume.pdf": "/React-Portfolio/static/media/Resume.ae8e2d3158e486fc0b39.pdf",
+    "static/media/doc.png": "/React-Portfolio/static/media/doc.3666422e12dfb7328f43.png",
+    "static/media/musicapp.png": "/React-Portfolio/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/port.png": "/React-Portfolio/static/media/port.456fe5beb4c399939263.png",
+    "static/media/glassesimoji.png": "/React-Portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/boy.png": "/React-Portfolio/static/media/boy.cfe729abeedfddae98b0.png",
+    "static/media/hoc.png": "/React-Portfolio/static/media/hoc.e6af51fc04c57ae67096.png",
+    "static/media/thumbup.png": "/React-Portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/React-Portfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/React-Portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/React-Portfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/React-Portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/React-Portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/React-Portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.7c50e5fe.css.map": "/React-Portfolio/static/css/main.7c50e5fe.css.map",
+    "main.83ddb62b.js.map": "/React-Portfolio/static/js/main.83ddb62b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c50e5fe.css",
+    "static/js/main.83ddb62b.js"
+  ]
+}
